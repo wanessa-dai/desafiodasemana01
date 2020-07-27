@@ -1,13 +1,22 @@
 body {
-    background-color: lightgrey;
-    color: blue;
+    background-color: #40E0D0;
+    color: #000000;
+    font: sans-serif;
+    text-align: center;
   }
   
   h1 {
     background-color: #2E8B57;
-    color: #1E90FF;
+    color: #000000;
+    font: arial;
   }
+  h2{
+    color:#FFFFF0;
+    
+  }
+
   
+ 
 
 
 
@@ -24,18 +33,3 @@ body {
 
 
 
-
-
-
-  //body{
-    background-color: ;
-    color:#40E0D0;
-}//
-h2{
-    text-align: center;
-    color:#1E90FF;
-}
-
-.colotext{
-    color: ;
-}
